@@ -1,7 +1,7 @@
 # Site settings
 title: Taveon Nelson
 email: taveonnelsonn@gmail.com
-url: https://457R0.github.io/cyber-portfolio
+url: https://457r0.github.io/Cyber-Portfolio/
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -35,7 +35,6 @@ footer:
   copyright: Taveon Nelson
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
